@@ -1,4 +1,7 @@
-# test coverage for  [nodal (v0.13.4)](https://github.com/keithwhor/nodal)  [![npm package](https://img.shields.io/npm/v/npmtest-nodal.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodal) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodal.svg)](https://travis-ci.org/npmtest/node-npmtest-nodal)
+# npmtest-nodal
+
+#### test coverage for  [nodal (v0.13.4)](https://github.com/keithwhor/nodal)  [![npm package](https://img.shields.io/npm/v/npmtest-nodal.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodal) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodal.svg)](https://travis-ci.org/npmtest/node-npmtest-nodal)
+
 #### An API Server and Framework for node.js
 
 [![NPM](https://nodei.co/npm/nodal.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nodal)
