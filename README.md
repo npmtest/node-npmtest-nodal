@@ -1,6 +1,6 @@
 # npmtest-nodal
 
-#### test coverage for  [nodal (v0.13.4)](https://github.com/keithwhor/nodal)  [![npm package](https://img.shields.io/npm/v/npmtest-nodal.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodal) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodal.svg)](https://travis-ci.org/npmtest/node-npmtest-nodal)
+#### basic test coverage for  [nodal (v0.13.4)](https://github.com/keithwhor/nodal)  [![npm package](https://img.shields.io/npm/v/npmtest-nodal.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodal) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodal.svg)](https://travis-ci.org/npmtest/node-npmtest-nodal)
 
 #### An API Server and Framework for node.js
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-nodal/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-nodal/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-nodal/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-nodal/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nodal/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nodal/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-nodal/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-nodal/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nodal/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nodal/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-nodal/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-nodal/build/coverage.html/index.html)
 
